@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          with docker compose Edit <code>src/App.js</code> and save to reload.
+          wchanged for aws amazon for feature branch Edit <code>src/App.js</code> and save to reload.
         </p>
         <a
           className="App-link"
